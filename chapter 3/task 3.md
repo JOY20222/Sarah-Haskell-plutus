@@ -35,8 +35,7 @@ main = do
    ./RGBToHex
    ```
 
----
-
+--
 ### ✅ Expected Output:
 
 ```
